@@ -36,9 +36,17 @@
       {{ content }}
 
       </section>
-      <footer>
 
+      <body class="d-flex flex-column h-100">
+        <div class="container">
+          <p> test</p>
+          {% include navigation.html %}
+          <div class="body">{{ content }}</div>
+        </div>
+
+      <footer>
       </footer>
+
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
