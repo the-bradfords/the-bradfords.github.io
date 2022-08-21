@@ -6,9 +6,9 @@ permalink: /family-index/
 
 In order of birth year:
 
-[Andrew S. Bradford](./_posts/2022-08-17-Andrew-Sanford-Bradford-Sr.html), 1815-1881
+[Andrew S. Bradford](/_posts/2022-08-17-Andrew-Sanford-Bradford-Sr.html), 1815-1881
 
-[Elbert T. Bradford](./_posts/2022-08-17-Elbert-Theodore-Bradford.html), 1846-1921
+[Elbert T. Bradford](/_posts/2022-08-17-Elbert-Theodore-Bradford.html), 1846-1921
 
 [Thomas C. Bradford Sr.](), 1891-1965
 
