@@ -37,6 +37,8 @@ Most types of manufacturing, like spinning cloth, soap-making, and forging tools
 
 
 
-
+///Footnotes Go Here///
+<small>
 [^1]: [Greene County Government Website](https://www.greenecountytngov.com/greene-county-tennessee-history/)
 [^2]: [TN State Library and Archives](https://tnsoshistory.com/chapter4)
+</small>
