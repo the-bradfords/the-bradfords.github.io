@@ -101,3 +101,10 @@ pre.highlight {
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
 
+//store it in variable first
+$font-main: 'Roboto-Mono', monospace;
+//to use it   
+.selector {
+   font-family: $font-main;
+}
+
