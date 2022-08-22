@@ -97,17 +97,14 @@ pre.highlight {
   }
 }
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300ita‌​lic,400italic,500,500italic,700,700italic,900italic,900);
-html, body, html * {
-  font-family: 'Roboto', sans-serif;
-}
 
 
 @font-face {
   font-family: 'Roboto Mono';
   src: url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
-  html, body, html * {
-    font-family: 'Roboto', sans-serif;
-  }
+}
+
+html, body, html * {
+    font-family: 'Roboto Mono';
 }
 
