@@ -101,10 +101,10 @@ pre.highlight {
 
 @font-face {
   font-family: 'Roboto Mono';
-  src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@200&display=swap');
+  src: url('https://fonts.googleapis.com/css?family=Roboto Mono');
 }
 
 html, body, html * {
-    font-family: 'Roboto';
+    font-family: 'Roboto Mono', 'monospace';
 }
 
